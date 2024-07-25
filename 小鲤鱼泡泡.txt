@@ -1,0 +1,8 @@
+PM:  11个  
+功能页面：  专案信息 专案组信息 普通项目 投资规划  项目创建增加“父项目”关联关系，普通项目和工程项目都加此选项
+页签：品牌代工厂   
+功能：项目增加父项目关联，难点，抱持树结构，防止形成图
+MES: 代办18 +
+
+
+  state.deptAuditList = ruleForm.value.audit_users.filter((item: any) => item.node_id == '19902');
